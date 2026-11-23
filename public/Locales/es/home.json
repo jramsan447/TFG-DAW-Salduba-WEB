@@ -1,0 +1,96 @@
+{
+  "hero": {
+    "badge": "Ecosistema Educativo Integral · Nueva Generación",
+    "titlePrefix": "El flujo de gestión educativa definitivo.",
+    "titleHighlight": "Cuatro herramientas, una web.",
+    "subtitle": "Reescribimos la gestión académica desde cero. Una plataforma rápida, intuitiva y centralizada para aulas virtuales, calificaciones oficiales, comunicación familiar e intranet de centro.",
+    "ctaPrimary": "Entrar al Portal",
+    "ctaSecondary": "Explorar módulos"
+  },
+  "mockup": {
+    "url": "app.eduflow.es/dashboard",
+    "campus": {
+      "badge": "Aula Virtual",
+      "due": "Hoy, 23:59",
+      "title": "Entrega Práctica API REST",
+      "meta": "Desarrollo Web en Entorno Servidor · 2º DAW"
+    },
+    "grades": {
+      "badge": "Expediente",
+      "delta": "+0.4 pts",
+      "title": "Media Global Actualizada",
+      "scale": "/ 10",
+      "footer": "Sincronizado con actas del centro"
+    },
+    "comms": {
+      "badge": "Avisos & Tutoría",
+      "title": "Justificante aceptado",
+      "body": "Jefatura de Estudios ha validado la ausencia del 21/11.",
+      "link": "Ver historial →"
+    }
+  },
+  "pillars": {
+    "title": "Cuatro herramientas fragmentadas, una sola arquitectura",
+    "subtitle": "Eliminamos la duplicidad de credenciales, las interfaces obsoletas y la sincronización manual entre plataformas.",
+    "items": [
+      {
+        "badge": "Sustituye a Moodle",
+        "title": "Campus & Entregas",
+        "desc": "Gestión de asignaturas, repositorios de apuntes, tareas y cuestionarios con carga instantánea."
+      },
+      {
+        "badge": "Sustituye a Séneca",
+        "title": "Gestión Académica",
+        "desc": "Evaluación continua, cuaderno del profesor, faltas de asistencia y generación de boletines oficiales."
+      },
+      {
+        "badge": "Sustituye a iPasen",
+        "title": "Portal Familias",
+        "desc": "Notificaciones en tiempo real, mensajería directa con docentes y firma de autorizaciones."
+      },
+      {
+        "badge": "Intranet de Centro",
+        "title": "Reserva y Guardias",
+        "desc": "Control de aulas TIC, gestión de guardias docentes, incidencias técnicas y tablón interno."
+      }
+    ]
+  },
+  "rolesSection": {
+    "title": "Diseñado para toda la comunidad educativa",
+    "subtitle": "Selecciona un rol para ver cómo EduFlow simplifica su día a día.",
+    "tabs": {
+      "alumnos": "Alumnos",
+      "docentes": "Docentes",
+      "familias": "Familias"
+    },
+    "profiles": {
+      "alumnos": {
+        "title": "Todo tu curso en una sola pantalla",
+        "description": "Olvídate de saltar entre Moodle para bajar apuntes y iPasen para ver tus notas. Consulta entregas pendientes, calificaciones en tiempo real y horarios unificados.",
+        "highlights": [
+          "Calendario inteligente con fechas de exámenes y tareas de Moodle",
+          "Boletín de notas en tiempo real y cálculo de media ponderada",
+          "Asistente IA integrado para consultas sobre el temario del curso"
+        ]
+      },
+      "docentes": {
+        "title": "Gestión de aula sin fricción",
+        "description": "Pasa lista, califica tareas y publica material didáctico desde una interfaz rápida, moderna y sin recargas interminables de página.",
+        "highlights": [
+          "Cuaderno del profesor sincronizado automáticamente con actas",
+          "Subida masiva de recursos y generación de rúbricas asistida",
+          "Comunicación directa con familias sin salir de la plataforma"
+        ]
+      },
+      "familias": {
+        "title": "Seguimiento transparente y directo",
+        "description": "La fluidez de iPasen integrada en un portal web accesible desde cualquier dispositivo, con notificaciones claras y gestión de faltas en dos clics.",
+        "highlights": [
+          "Justificación de ausencias y autorizaciones con firma digital",
+          "Mensajería directa con tutores y equipo directivo",
+          "Alertas tempranas de rendimiento y calendario de tutorías"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "brand": {
+    "name": "EduFlow",
+    "prefix": "Edu",
+    "suffix": "Flow"
+  },
+  "nav": {
+    "unification": "Plataforma Unificada",
+    "roles": "Perfiles",
+    "architecture": "Tecnología",
+    "login": "Iniciar sesión",
+    "centerAccess": "Acceso Centro",
+    "openMenu": "Abrir menú de navegación",
+    "closeMenu": "Cerrar menú de navegación"
+  },
+  "language": {
+    "select": "Seleccionar idioma"
+  },
+  "footer": {
+    "tfgNotice": "Proyecto de Fin de Grado · Arquitectura basada en React, Symfony y PostgreSQL."
+  }
+}
