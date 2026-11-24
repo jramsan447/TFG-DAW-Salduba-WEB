@@ -11,7 +11,9 @@
     "login": "Iniciar sesión",
     "centerAccess": "Acceso Centro",
     "openMenu": "Abrir menú de navegación",
-    "closeMenu": "Cerrar menú de navegación"
+    "closeMenu": "Cerrar menú de navegación",
+    "themeToDark": "Activar modo oscuro",
+    "themeToLight": "Activar modo claro"
   },
   "language": {
     "select": "Seleccionar idioma"
